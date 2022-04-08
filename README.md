@@ -8,3 +8,6 @@ Concepts and Areas Learnt and further developed:
   <li>Big O Notation, Best, Worst, Average cases</li>
   <li>How these algorithms work</li>
 </ul>
+
+
+I will be adding more algorithms over time!
