@@ -2,9 +2,12 @@
 
 <h2>Big O Notation</h2>
 
-<p align = center>| Time (Best) | Time (Average)  | Time (Worst) | Space |
+<p align = center>
+| Time (Best) | Time (Average)  | Time (Worst) | Space |
 | --------- | --------- | --------- | --------- |
-|  O(n)      | O(n²)       | O(n²)   |O(1)|</p>
+|  O(n)      | O(n²)       | O(n²)   |O(1)|
+
+</p>
 
 | Time (Best) | Time (Average)  | Time (Worst) | Space |
 | --------- | --------- | --------- | --------- |
