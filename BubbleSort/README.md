@@ -5,3 +5,6 @@
 | Time (Best)      | Time (Average) | Time (Worst)     |Space|
 | o(n)      | O(n²)       | O(n²)   |O(1)|
 
+| Time (Best) | Time (Average)  | Time (Worst) | Space |
+| --------- | --------- | --------- | --------- |
+|  o(n)      | O(n²)       | O(n²)   |O(1)|
